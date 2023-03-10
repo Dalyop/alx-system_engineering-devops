@@ -1,2 +1,2 @@
 #!/bin/bash
-parentdirectory > currentdirectory.html
+cp -nu*.html
